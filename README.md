@@ -11,4 +11,4 @@ Repository for ITMO C++ course by Itivity
 
 <b>Поддержка тригонометрических функций с выбором режима в калькуляторе</b>
 
-[Решение](/HW2-calc-trig-VictorMinsky/src/calc.cpp)
+[Решение](/HW2-calc-trig/src/calc.cpp)
